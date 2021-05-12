@@ -1,0 +1,18 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.chat-send {
+  margin-left: 5rem;
+}
+.chat {
+  margin-top: 5rem;
+}
+
+div.chat-content {
+  border-radius: 0.25rem;
+  height: 40rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+.card {
+  height: 100%;
+}
